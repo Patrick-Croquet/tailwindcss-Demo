@@ -1,0 +1,15 @@
+// Your custom variables
+// scss-docs-start color-variables
+$orange: #e87669 !default;
+$yellow: #fcd04b !default;
+$green: #66ad8b !default;
+$brown: #e93434 !default;
+
+// scss-docs-start colors-map
+$colors: (
+  'orange': $orange,
+  'yellow': $yellow,
+  'green': $green,
+  'brown': $brown,
+) !default;
+// scss-docs-end colors-map
